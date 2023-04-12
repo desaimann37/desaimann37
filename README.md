@@ -1,4 +1,4 @@
-### Hi there 👋
+
 Myself Mann Desai I am Second Year Computer Enigineering Student @Dharmsinh Desai University Also Known As DDU More Likel;y to Do Competitive Programming...
 
 ### Linked In Profile : https://www.linkedin.com/in/mann-desai-928137147/
@@ -24,7 +24,7 @@ Myself Mann Desai I am Second Year Computer Enigineering Student @Dharmsinh Desa
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/desaimann37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="desaimann37" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md_102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_102" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
