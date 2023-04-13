@@ -1,12 +1,13 @@
 
-Myself Mann Desai I am Second Year Computer Enigineering Student @Dharmsinh Desai University Also Known As DDU More Likel;y to Do Competitive Programming...
+<!-- Myself Mann Desai I am Second Year Computer Enigineering Student @Dharmsinh Desai University Also Known As DDU More Likel;y to Do Competitive Programming... -->
 
 ### Linked In Profile : https://www.linkedin.com/in/mann-desai-928137147/
 
-<h1 align="center">Hi there 👋
+<h1 align="center">!! Hi There !! 👋
 </h1>
-Myself Mann Desai I am Second Year Computer Enigineering Student @Dharmsinh Desai University Also Known As DDU More Likel;y to Do Competitive Programming...
-
+<h3>
+-> Myself Mann Desai I am Second Year Computer Enigineering Student @Dharmsinh Desai University <br> ->Also Known As DDU <br>->Area Of Interest Competitive Programming
+</h3>
 <h3 align="center">More Likely To Do Competitive Programming</h3>
 
 - 🔭 I’m currently working on **Spring Boot**
