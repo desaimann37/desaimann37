@@ -10,11 +10,7 @@
 </h3>
 <h3 align="center">More Likely To Do Competitive Programming</h3>
 
-- 🔭 I’m currently working on **Spring Boot**
-
 - 🌱 I’m currently learning **Frameworks , DSA(CP)**
-
-- 👨‍💻 All of my projects are available at [https://desaimann37.github.io/PortFolio.github.io/](https://desaimann37.github.io/PortFolio.github.io/)
 
 - 📫 How to reach me **desaimann37@gmail.com**
 
