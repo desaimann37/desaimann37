@@ -6,7 +6,7 @@
 <h1 align="center">!! Hi There !! 👋
 </h1>
 <h3>
--> Myself Mann Desai I am Second Year Computer Engineering Student @Dharmsinh Desai University <br>->Area Of Interest Competitive Programming
+-> Myself Mann Desai I am Third Year Computer Engineering Student @Dharmsinh Desai University <br>->Area Of Interest Competitive Programming
 </h3>
 <h3 align="center">More Likely To Do Competitive Programming</h3>
 
