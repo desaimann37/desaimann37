@@ -1,10 +1,6 @@
-<p align="left"> <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" alt="desaimann37" /> </p>
-
+[![MasterHead](https://media1.tenor.com/images/247d8ee14f4569a7a5d033081ec785d2/tenor.gif?itemid=7866345)](https://desaimann37.io)
 <h1 align="center">Hi 👋 There Myself Mann Desai</h1>
 <h3 align="center">Third Year Computer Engineering Student -> Area Of Interest : Problem Solving(CP))</h3>
-
-[![MasterHead](https://media1.tenor.com/images/247d8ee14f4569a7a5d033081ec785d2/tenor.gif?itemid=7866345)](https://desaimann37.io)
-
 
 - 🔭 I’m currently working on [MERN Stack](https://github.com/desaimann37/Sem_5_IMS)
 
