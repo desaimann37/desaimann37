@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)]
 <h1 align="center">Hi 👋 There Myself Mann Desai</h1>
 <h3 align="center">Third Year Computer Engineering Student -> Area Of Interest : Problem Solving(CP))</h3>
 
