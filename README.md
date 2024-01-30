@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Disease Diagnosis Project](https://github.com/desaimann37/DiagnoCare)
 
-- 🌱 I’m currently into [ML & DL](https://github.com/ishapaghdal301/DiagnoCare)
+- 🌱 I’m currently into [ML & DL](https://github.com/desaimann37/Deep-Learning)
 
 - 👯 I’m looking to collaborate on **LinkedIn / GitHub**
 
