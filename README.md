@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 There Myself Mann Desai</h1>
 <h3 align="center">Third Year Computer Engineering Student -> Area Of Interest : Problem Solving(CP))</h3>
 
-- 🔭 I’m currently working on [MERN Stack](https://github.com/desaimann37/Sem_5_IMS)
+- 🔭 I’m currently working on [Disease Diagnosis Project](https://github.com/desaimann37/DiagnoCare)
 
-- 🌱 I’m currently learning **MERN / .NET / Flutter**
+- 🌱 I’m currently into [ML & DL](https://github.com/ishapaghdal301/DiagnoCare)
 
 - 👯 I’m looking to collaborate on **LinkedIn / GitHub**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **desaimann37@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/hc206pJ9g](https://resume.io/r/hc206pJ9g)
+- 📄 Know about my experiences [https://linkedin.com/in/mann-desai-928137147)
 
 - ⚡ Fun fact **I Think I am !notFunny**
 
