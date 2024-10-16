@@ -2,7 +2,7 @@
 <h3 align="center">Fourth Year Computer Engineering Student -> Area Of Interest : Problem Solving</h3>
 
 
-- 🌱 I’m currently into [ML & DL](https://github.com/desaimann37/Deep-Learning)
+- 🌱 I’m currently working on [ML & DL](https://github.com/desaimann37/Deep-Learning)
 
 - 👯 I’m looking to collaborate on **LinkedIn / GitHub**
 
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/mann-desai-928137147)
 
-- ⚡ Fun fact **I Think I am !notFunny**
+- ⚡ Portfolio **https://desaimann37.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
