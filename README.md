@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋 There Myself Mann Desai</h1>
-<h3 align="center">Third Year Computer Engineering Student -> Area Of Interest : Problem Solving(CP))</h3>
+<h3 align="center">Fourth Year Computer Engineering Student -> Area Of Interest : Problem Solving</h3>
 
-- 🔭 I’m currently working on [Disease Diagnosis Project](https://github.com/desaimann37/DiagnoCare)
 
 - 🌱 I’m currently into [ML & DL](https://github.com/desaimann37/Deep-Learning)
 
